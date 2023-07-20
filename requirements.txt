@@ -1,2 +1,4 @@
 gradio_client>=0.2.10
 Flask==1.0.2
+jinja2>=2.6
+Markups==4.0.0
